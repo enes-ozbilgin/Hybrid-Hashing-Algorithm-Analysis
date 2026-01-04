@@ -1,0 +1,15 @@
+ID-1_5M.txt,1,1,1
+My_Input.txt,1,1.75007,9
+ID-1_5M.txt,5,1,1
+My_Input.txt,5,2.58051,11
+ID-1_5M.txt,10,1,1
+My_Input.txt,10,3.33514,16
+ID-1_5M.txt,25,1,1
+My_Input.txt,25,4.92542,31
+ID-1_5M.txt,100,1,1
+My_Input.txt,100,9.39716,106
+ID-1_5M.txt,500,1,1
+My_Input.txt,500,20.6066,504
+ID-1_5M.txt,1000,1,1
+My_Input.txt,1000,29.0285,1004
+
